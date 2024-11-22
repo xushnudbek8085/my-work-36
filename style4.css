@@ -1,0 +1,9 @@
+.a{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 40px;
+}
